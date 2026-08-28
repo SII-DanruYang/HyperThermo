@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "HyperThermo: Thermodynamic Prior Mismatch Diagnosis and Correction for RNA Folding"
+message: "If you use this repository, please cite the HyperThermo paper."
+authors:
+  - family-names: Yang
+    given-names: Danru
+    affiliation: "Shanghai Institute of Intelligent Systems"
+version: 1.0.0
+date-released: 2026-08-28
+repository-code: "https://github.com/SII-DanruYang/HyperThermo"
+license: MIT
