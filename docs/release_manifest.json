@@ -1,0 +1,177 @@
+[
+  {
+    "file": "data/MANIFEST.json",
+    "size": 1058,
+    "md5": "8037818719731795c0c81311faa3881a"
+  },
+  {
+    "file": "data/oracle/oracle_alignment_dataset.jsonl",
+    "size": 92110,
+    "md5": "7ac7fd992829a79f49ac3742b593ee11"
+  },
+  {
+    "file": "data/oracle/theta_oracle_dataset.jsonl",
+    "size": 276238,
+    "md5": "b8868f5784f1e0314db86ef3bb4220e6"
+  },
+  {
+    "file": "data/processed/fig1_theta_correction.csv",
+    "size": 65665,
+    "md5": "460a7b62ff39360782084ae3816fc7a7"
+  },
+  {
+    "file": "data/processed/structural_transfer_dataset.jsonl",
+    "size": 8765,
+    "md5": "9d60c2ceb423e72e6168532674739656"
+  },
+  {
+    "file": "data/processed/thermostate_prediction_dataset.jsonl",
+    "size": 26524,
+    "md5": "83d58ef89a3d292aed6d6cb6ae6628d5"
+  },
+  {
+    "file": "data/processed/theta_correction_dataset.jsonl",
+    "size": 175537,
+    "md5": "bb1a8b754f5ff81469f4f4517b05f071"
+  },
+  {
+    "file": "data/raw/b2p7c_structural_transfer_records.jsonl",
+    "size": 16618,
+    "md5": "66ed814ac0276bc9f3c67c23ee10ab38"
+  },
+  {
+    "file": "data/raw/predicted_theta_277_FULL.jsonl",
+    "size": 513770,
+    "md5": "c98cf37175fedd5760546d036683660e"
+  },
+  {
+    "file": "data/raw/thermostate900_dev69_states.jsonl",
+    "size": 63665,
+    "md5": "5f6c20598d5b264204ed17bbfe237c8c"
+  },
+  {
+    "file": "data/splits/interface/theta_test_input.jsonl",
+    "size": 46082,
+    "md5": "c25ae5e0b754837b1ddc6c1108042ef8"
+  },
+  {
+    "file": "data/splits/interface/theta_test_target.jsonl",
+    "size": 9695,
+    "md5": "dd391d361556308f52f3268f88c450d5"
+  },
+  {
+    "file": "data/splits/interface/theta_train_input.jsonl",
+    "size": 128949,
+    "md5": "cb8e359f2f9c3cb98ffdb1c8676c692f"
+  },
+  {
+    "file": "data/splits/interface/theta_train_target.jsonl",
+    "size": 30483,
+    "md5": "b319ecf6f54e4590665d3c8fe8ec615a"
+  },
+  {
+    "file": "data/splits/split_statistics.json",
+    "size": 202,
+    "md5": "9fc2240dcb75a4b79975169f1fbc8b17"
+  },
+  {
+    "file": "data/splits/theta_test.jsonl",
+    "size": 53114,
+    "md5": "029b86e49f9983d998335d1c92c61bff"
+  },
+  {
+    "file": "data/splits/theta_train.jsonl",
+    "size": 150887,
+    "md5": "69c87b971a6e519f9ab04e8233a2df02"
+  },
+  {
+    "file": "results/frozen/README.md",
+    "size": 694,
+    "md5": "89e1f7b0768fba95bef6b945774c37b2"
+  },
+  {
+    "file": "results/frozen/feature_ablation.json",
+    "size": 100,
+    "md5": "b6001c6e51199bd1451e1c091b00de8f"
+  },
+  {
+    "file": "results/frozen/figures/data/fig1_summary.json",
+    "size": 219,
+    "md5": "552e9923ea0f89c9b49066ba5fc7855e"
+  },
+  {
+    "file": "results/frozen/figures/data/fig2_prediction.csv",
+    "size": 18998,
+    "md5": "eb839c79d17d8f443c02b39c0e7fa024"
+  },
+  {
+    "file": "results/frozen/figures/data/fig2_summary.json",
+    "size": 143,
+    "md5": "41780c96c70bb111b998fcb7010cbb8c"
+  },
+  {
+    "file": "results/frozen/figures/data/fig3_summary.json",
+    "size": 1059,
+    "md5": "e86bcb6d17446f9c7fe507346ac67f95"
+  },
+  {
+    "file": "results/frozen/figures/data/fig3_transfer_clean.csv",
+    "size": 4047,
+    "md5": "740b04f2ab8bc85dfcece0c1dfc3b1a6"
+  },
+  {
+    "file": "results/frozen/figures/data/fig4_alignment.csv",
+    "size": 127451,
+    "md5": "1f53958948efe39d83d351285326c3dd"
+  },
+  {
+    "file": "results/frozen/figures/data/fig4_summary.json",
+    "size": 402,
+    "md5": "cf82ddb1cd72d6eca0227e19051ec956"
+  },
+  {
+    "file": "results/frozen/models/ridge_theta.pkl",
+    "size": 1415,
+    "md5": "57bd852d4e3cdc2e0d340b857fb6dee8"
+  },
+  {
+    "file": "results/frozen/models/theta_scaler.pkl",
+    "size": 1239,
+    "md5": "ea75eb600bbd67dcec501d390da6fffd"
+  },
+  {
+    "file": "results/frozen/oracle_alignment_dataset.jsonl",
+    "size": 92110,
+    "md5": "7ac7fd992829a79f49ac3742b593ee11"
+  },
+  {
+    "file": "results/frozen/split_statistics.json",
+    "size": 202,
+    "md5": "9fc2240dcb75a4b79975169f1fbc8b17"
+  },
+  {
+    "file": "results/frozen/structural_transfer_dataset.jsonl",
+    "size": 8765,
+    "md5": "9d60c2ceb423e72e6168532674739656"
+  },
+  {
+    "file": "results/frozen/theta_prediction_summary.json",
+    "size": 171,
+    "md5": "4143310fa5faa238d2c95c023a9ff3ba"
+  },
+  {
+    "file": "results/frozen/theta_test.jsonl",
+    "size": 53114,
+    "md5": "029b86e49f9983d998335d1c92c61bff"
+  },
+  {
+    "file": "results/frozen/theta_test_prediction.jsonl",
+    "size": 11525,
+    "md5": "2f40e67cdf8391a05c6be1d2abdd687e"
+  },
+  {
+    "file": "results/frozen/theta_train.jsonl",
+    "size": 150887,
+    "md5": "69c87b971a6e519f9ab04e8233a2df02"
+  }
+]

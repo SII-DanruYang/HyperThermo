@@ -1,0 +1,41 @@
+{
+  "N": 38,
+  "mean_delta_f1": 0.05066543500159853,
+  "median_delta_f1": 0.0,
+  "positive_rescue_fraction": 0.42105263157894735,
+  "positive_rescue_count": 16,
+  "validation_N": 15,
+  "validation_mean_delta_f1": 0.06800789418922214,
+  "top_rescue_ids": [
+    {
+      "id": "bpRNA_RFAM_27199.st",
+      "delta_f1": 0.3589743589743589,
+      "global_f1": 0.3076923076923077,
+      "oracle_f1": 0.6666666666666666
+    },
+    {
+      "id": "bpRNA_RFAM_14397.st",
+      "delta_f1": 0.3243243243243243,
+      "global_f1": 0.0,
+      "oracle_f1": 0.3243243243243243
+    },
+    {
+      "id": "bpRNA_CRW_25354.st",
+      "delta_f1": 0.3203991130820399,
+      "global_f1": 0.6341463414634146,
+      "oracle_f1": 0.9545454545454546
+    },
+    {
+      "id": "bpRNA_RFAM_12854.st",
+      "delta_f1": 0.2564102564102564,
+      "global_f1": 0.2051282051282051,
+      "oracle_f1": 0.4615384615384615
+    },
+    {
+      "id": "bpRNA_RFAM_12796.st",
+      "delta_f1": 0.2110912343470483,
+      "global_f1": 0.5581395348837209,
+      "oracle_f1": 0.7692307692307693
+    }
+  ]
+}
