@@ -130,16 +130,6 @@
     "md5": "cf82ddb1cd72d6eca0227e19051ec956"
   },
   {
-    "file": "results/frozen/models/ridge_theta.pkl",
-    "size": 1415,
-    "md5": "57bd852d4e3cdc2e0d340b857fb6dee8"
-  },
-  {
-    "file": "results/frozen/models/theta_scaler.pkl",
-    "size": 1239,
-    "md5": "ea75eb600bbd67dcec501d390da6fffd"
-  },
-  {
     "file": "results/frozen/oracle_alignment_dataset.jsonl",
     "size": 92110,
     "md5": "7ac7fd992829a79f49ac3742b593ee11"
